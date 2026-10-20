@@ -1,6 +1,6 @@
 ### Well hello there!
 
----Test sprememba — Lukas---
+---Test sprememba - Lukas---
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
